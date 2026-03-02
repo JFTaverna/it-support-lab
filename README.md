@@ -15,6 +15,12 @@ The goal of this lab is to simulate a small enterprise environment with multiple
 - Department-based OU structure
 - Shared folders per department (Ventas, Finanzas, IT, RRHH)
 
+## 📷 Lab Evidence
+
+### Active Directory OU Structure
+
+![Active Directory OU Structure](screenshots/ad-ou-structure.png)
+
 ---
 
 ## 👥 Active Directory Structure
