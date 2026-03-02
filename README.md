@@ -59,6 +59,8 @@ User
 - Read and Modify access separated by design
 - Principle of Least Privilege applied
 
+
+
 ---
 
 ## 🗂 Group Policy Configuration
@@ -67,6 +69,14 @@ User
 - User Configuration → Preferences → Drive Maps
 - Item-level targeting based on Global Groups
 - Automatic drive assignment per department
+
+### GPO Drive Mapping
+
+![GPO Drive Maps](screenshots/gpo-drive-maps.png)
+
+### Item-Level Targeting
+
+![Item-Level Targeting](screenshots/gpo-item-level-targeting.png)
 
 ---
 
