@@ -35,6 +35,16 @@ User
 → GG_Ventas
 → DL_Ventas_RW
 → NTFS Modify permission on shared folder
+## 📷 Lab Evidence
+
+### Active Directory OU Structure
+![Active Directory OU Structure](screenshots/ad-ou-structure.png)
+
+### Global Groups
+![Global Groups](screenshots/ad-global-groups.png)
+
+### Domain Local Groups
+![Domain Local Groups](screenshots/ad-domain-local-groups.png)
 
 ---
 
