@@ -46,6 +46,9 @@ User
 ### Domain Local Groups
 ![Domain Local Groups](screenshots/ad-domain-local-groups.png)
 
+### NTFS Permissions – Ventas Folder
+
+![NTFS Permissions – Ventas](screenshots/ntfs-ventas-permissions.png)
 ---
 
 ## 🔐 Permissions Design
